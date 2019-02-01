@@ -1,2 +1,6 @@
 # Hello-world
 This is my first repository...
+--------------------------------
+Hi,
+i am Aniket.
+i  like Git-hub. it is  very user friendly...
